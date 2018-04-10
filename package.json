@@ -1,6 +1,6 @@
 {
   "name": "react-native-sww-activity-indicator-d",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "react native ActivityIndicator like component, pure javascript solution",
   "main": "index.js",
   "scripts": {

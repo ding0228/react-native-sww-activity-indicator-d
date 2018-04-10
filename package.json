@@ -1,6 +1,6 @@
 {
   "name": "react-native-sww-activity-indicator-d",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "react native ActivityIndicator like component, pure javascript solution",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ding0228/react-native-sww-activity-indicator-d#readme",
   "dependencies": {
+    "lodash": "^4.17.5",
     "react-timer-mixin": "^0.13.3"
   }
 }

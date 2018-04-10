@@ -1,23 +1,27 @@
 {
   "name": "react-native-sww-activity-indicator-d",
-  "version": "1.0.3",
-  "description": "react native ActivityIndicator like component, pure javascript solution",
+  "version": "1.0.0",
+  "description": "引用自 ：shiwenwen/react-native-sww-activity-indicator 源码地址：https://github.com/shiwenwen/react-native-sww-activity-indicator",
   "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ding0228/react-native-sww-activity-indicator-d"
+    "url": "git+https://github.com/ding0228/react-native-sww-activity-indicator-d.git"
   },
+  "keywords": [],
   "author": "",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/ding0228/react-native-sww-activity-indicator-d/issues"
   },
-  "homepage": "https://github.com/ding0228/react-native-sww-activity-indicator-d#readme",
-  "dependencies": {
-    "lodash": "^4.17.5",
-    "react-timer-mixin": "^0.13.3"
-  }
+  "homepage": "https://github.com/ding0228/react-native-sww-activity-indicator-d#readme"
 }
